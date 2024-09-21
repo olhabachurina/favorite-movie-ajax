@@ -1,4 +1,4 @@
-import './App.css';  // Импортируем стили
+import './App.css';  
 import React from 'react';
 import MovieSearch from './components/MovieSearch';
 
